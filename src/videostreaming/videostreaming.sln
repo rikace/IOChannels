@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "videostreaming", "videostreaming\videostreaming.csproj", "{1954B644-2E97-421E-90C9-A10BC0A51490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{8D79F4AA-80F6-4324-9646-55CAC8D7EE4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1954B644-2E97-421E-90C9-A10BC0A51490}.Debug|x86.ActiveCfg = Debug|x86
+		{1954B644-2E97-421E-90C9-A10BC0A51490}.Debug|x86.Build.0 = Debug|x86
+		{1954B644-2E97-421E-90C9-A10BC0A51490}.Release|x86.ActiveCfg = Release|x86
+		{1954B644-2E97-421E-90C9-A10BC0A51490}.Release|x86.Build.0 = Release|x86
+		{8D79F4AA-80F6-4324-9646-55CAC8D7EE4E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8D79F4AA-80F6-4324-9646-55CAC8D7EE4E}.Debug|x86.Build.0 = Debug|Any CPU
+		{8D79F4AA-80F6-4324-9646-55CAC8D7EE4E}.Release|x86.ActiveCfg = Release|Any CPU
+		{8D79F4AA-80F6-4324-9646-55CAC8D7EE4E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
